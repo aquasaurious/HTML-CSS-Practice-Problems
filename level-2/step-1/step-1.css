@@ -24,21 +24,28 @@
     width: 100px;
     height: 40px;
     background: #536A63;
+    display: inline-block;
+    position: absolute;
+    left: 15px;
+    top: 15px;
 }
 
 .logo {
     width: 300px;
     height: 40px;
-    margin-top: 10px;
     background: #536A63;
-
-
+    display: inline-block;
+    margin-top: 15px;
 }
 
 .sign-in {
     width: 100px;
     height: 40px;
     background: #536A63;
+    position: absolute;
+    display: inline-block;
+    right: 15px;
+    top: 15px;
 
 }
 
@@ -49,6 +56,8 @@
     height: 60px;
     left: 22%;
     background: #536A63;
+    position: absolute;
+    bottom: -30px;
 
 
 }
